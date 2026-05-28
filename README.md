@@ -30,4 +30,4 @@ The project focuses heavily on **modular programming**, using independent functi
 2. Download or clone this repository.
 3. Open your terminal or command prompt, navigate to the folder, and run:
    ```bash
-   python hi3.py
+    python ultimate.py
