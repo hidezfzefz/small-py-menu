@@ -29,5 +29,6 @@ A mini-game element that demonstrates dynamic data manipulation.
    python gem3.py
    python roll_dice.py
    python Task_list.py
+   python ui1.py
 this repostry decreption made by ai but those small projects made by me
 and also just wanna recorde my journey as learning new things evry day
